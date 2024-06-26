@@ -8,7 +8,7 @@ const  num2 = 2
 const multiply = num1 * num2
 
 
-let random = Math.ceil(Math.random() * Number.MAX_SAFE_INTEGER);
+let random = Math.ceil(Math.random() * 1);
 
 
 if (random === 0) {
